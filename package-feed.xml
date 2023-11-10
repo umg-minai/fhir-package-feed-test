@@ -10,20 +10,30 @@
     <language>en</language>
     <ttl>600</ttl>
     <item>
-      <title>de.netzwerk-universitaetsmedizin.de.ebm-cpg#0.6.0</title>
+      <title>de.netzwerk-universitaetsmedizin.de.ebm-cpg#0.7.1-snapshot</title>
       <description>de.netzwerk-universitaetsmedizin.de.ebm-cpg</description>
-      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</link>
-      <guid isPermaLink="true">https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</guid>
+      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.1-snapshot/ebm-cpg.netzwerk-universitaetsmedizin.de-0.7.1-snapshot.tgz?raw=true</link>
+      <guid isPermaLink="true">https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.1-snapshot/ebm-cpg.netzwerk-universitaetsmedizin.de-0.7.1-snapshot.tgz?raw=true</guid>
       <dc:creator>glichtner</dc:creator>
       <fhir:version>5.0.0</fhir:version>
       <fhir:kind>IG</fhir:kind>
       <pubDate>Wed, 31 Aug 2022 17:47:07 UTC</pubDate>
     </item>
     <item>
-      <title>de.netzwerk-universitaetsmedizin.de.ebm-cpg#0.6.1-snapshot</title>
+      <title>de.netzwerk-universitaetsmedizin.de.ebm-cpg#0.7.0</title>
       <description>de.netzwerk-universitaetsmedizin.de.ebm-cpg</description>
-      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.1-snapshot/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.1-snapshot.tgz?raw=true</link>
-      <guid isPermaLink="true">https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.1-snapshot/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.1-snapshot.tgz?raw=true</guid>
+      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.7.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.7.0.tgz?raw=true</link>
+      <guid isPermaLink="true">https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.7.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.7.0.tgz?raw=true</guid>
+      <dc:creator>glichtner</dc:creator>
+      <fhir:version>5.0.0</fhir:version>
+      <fhir:kind>IG</fhir:kind>
+      <pubDate>Wed, 31 Aug 2022 17:47:07 UTC</pubDate>
+    </item>
+    <item>
+      <title>de.netzwerk-universitaetsmedizin.de.ebm-cpg#0.6.0</title>
+      <description>de.netzwerk-universitaetsmedizin.de.ebm-cpg</description>
+      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.7.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</link>
+      <guid isPermaLink="true">https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</guid>
       <dc:creator>glichtner</dc:creator>
       <fhir:version>5.0.0</fhir:version>
       <fhir:kind>IG</fhir:kind>
