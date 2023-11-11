@@ -5,7 +5,7 @@
     <link>https://github.com/umg-minai/fhir-package-feed/blob/main/package-feed.xml?raw=true</link>
     <generator>UMG MINAI FHIR Publication tooling</generator>
     <lastBuildDate>Fri, 10 Nov 2023 09:47:07 UTC</lastBuildDate>
-    <atom:link href="https://github.com/umg-minai/fhir-package-feed/blob/main/package-feed.xmll?raw=true" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://github.com/umg-minai/fhir-package-feed/blob/main/package-feed.xml?raw=true" rel="self" type="application/rss+xml"/>
     <pubDate>Fri, 10 Nov 2023 09:47:07 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
@@ -59,6 +59,5 @@
       <fhir:kind>fhir.template</fhir:kind>
       <pubDate>Fri, 11 Nov 2023 12:47:07 UTC</pubDate>
     </item>  
-    </item>
   </channel>
 </rss>
