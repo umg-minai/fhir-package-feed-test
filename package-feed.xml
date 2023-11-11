@@ -32,7 +32,7 @@
     <item>
       <title>de.netzwerk-universitaetsmedizin.ebm-cpg#0.6.0</title>
       <description>de.netzwerk-universitaetsmedizin.ebm-cpg</description>
-      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.7.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</link>
+      <link>https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</link>
       <guid isPermaLink="true">https://github.com/CEOsys/cpg-on-ebm-on-fhir/releases/download/v0.6.0/ebm-cpg.netzwerk-universitaetsmedizin.de-0.6.0.tgz?raw=true</guid>
       <dc:creator>glichtner</dc:creator>
       <fhir:version>5.0.0</fhir:version>
